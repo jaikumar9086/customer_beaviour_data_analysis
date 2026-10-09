@@ -1,4 +1,3 @@
-
 # Customer Shopping Behavior Analysis
 
 An end-to-end data analytics project: Python for cleaning and EDA, PostgreSQL for business queries, Power BI for an interactive dashboard, plus a written report and a presentation built with Gamma.
@@ -164,6 +163,6 @@ Open `dashboard/customer_behaviour_dashboard.pbix` in Power BI Desktop.
 
 ## Author
 
-**Shweta Choudhary**
+**Jai**
 New Delhi, India
-LinkedIn: *add link* | Email: *add email*
+LinkedIn: *add link* | Email: jaisingh1352001@gmail.com
